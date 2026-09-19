@@ -1,0 +1,23 @@
+{
+  "name": "slide-deck-fqa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fehmeed4u/slide-deck-fqa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fehmeed4u/slide-deck-fqa/issues"
+  },
+  "homepage": "https://github.com/fehmeed4u/slide-deck-fqa#readme",
+  "dependencies": {
+    "three": "^0.160.0"
+  }
+}
